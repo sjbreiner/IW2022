@@ -12,7 +12,11 @@ In order to run the Catlab notebook example:
 		```
 		julia> _
 		```
+<<<<<<< HEAD
 3. Run `Pkg.add("IJulia")` at the Julia prompts to install Julia's Jupyter notebook package. If you already have Jupyter installed (e.g., with Anaconda) you can use that, but you may need to install a new kernel.
+=======
+3. Run `Pkg.add("IJulia")` at the Julia prompts to install Julia's Jupyter notebook package. If you already have Jupyter installed (e.g., with Anaconda) you can use that, but you may need to install a new kernel)
+>>>>>>> 12670e099d5431f58eb1c01fa332661a381dd626
 
 4. Run `Pkg.add("Catlab")` to install the Catlab package.
 
