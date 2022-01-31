@@ -1,7 +1,6 @@
 # IW2022
 Resources for category theory tutorial @ INCOSE IW 2022
 
-
 In order to run the Catlab notebook example:
 
 0. Download the files from this repository into a folder on your computer.
@@ -24,3 +23,5 @@ In order to run the Catlab notebook example:
 7. Locate the `IW2022_Demo.ipynb` file saved on your machine and click to open. The notebook should open a new tab in your web browser.
 
 8. Run the notebook cells (in order!) using the buttons at the top, or by hitting `Ctrl+Enter` from within a cell.
+
+Please feel free to contact me (`spencer dot breiner at nist dot gov`) for questions, technical support or pointers to additional resources.
